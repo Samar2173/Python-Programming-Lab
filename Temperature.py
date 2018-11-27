@@ -5,4 +5,4 @@ if k==1:
  print("temp in farenheit is",a)
 else:
  a=(5*j -160)/9
-print("temp in celcius is:",a)
+ print("temp in celcius is:",a)
